@@ -1,1 +1,43 @@
+body {
+  background-color: burlywood;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+#me {
+  border: 1px solid black;
+  text-align:center;
+  background-image: url('https://pasoroblesdailynews.com/wp-content/uploads/2015/09/embrace-massage-massage-oils1.jpg');
+  opacity: 100%;
+ }
+
+p{
+  font-family: cursive;
+}
+
+.exp-header {
+  border: 1px solid black;
+  text-align:center;
+ 
+ }
+
+
+.edu-header {
+ border: 1px solid black;
+  text-align:center
+}
+
+
+.assn-header {
+  border: 1px solid black;
+  text-align:center
+}
+
+footer {
+  
+  text-align:center
+
+}
+
+#foot {
+  background-color: antiquewhite;
+}
